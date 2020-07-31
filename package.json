@@ -19,7 +19,8 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
     "react-native-dotenv": "^2.2.3",
     "react-native-web": "~0.11.7",
-    "supervisor": "^0.12.0"
+    "supervisor": "^0.12.0",
+    "expo-linear-gradient": "~8.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
