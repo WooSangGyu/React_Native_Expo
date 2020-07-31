@@ -148,7 +148,8 @@ const Styles = StyleSheet.create({
         color:"white",
         fontSize: 44,
         fontWeight: "300",
-        marginBottom: 10
+        marginBottom: 10,
+        textAlign: "left"
     },
     subtitle: {
         fontWeight: "600",
@@ -158,6 +159,8 @@ const Styles = StyleSheet.create({
     },
     textContainer: {
         paddingHorizontal:20,
-        alignItems: "flex-start"
+        alignItems: "flex-start",
+        justifyContent:"center",
+        flex: 1
     }
 })
