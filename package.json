@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "expo": "~38.0.8",
     "expo-location": "~8.2.1",
